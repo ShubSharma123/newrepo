@@ -1,1 +1,1 @@
-Hello It is my README file. My hopes for this course are to network, learn new skills, and get a job.
+I have tried to communicate and explain my process, steps, results, calculations, etc. as clearly as possible, so that someone who is not as experienced in statistics can understand just as well as someone who is more experienced. Let me know how I did and I how can improve. I am always looking for ways to learn, grow, and expand my knowledge!
